@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "understand",
+    "database": "trade_marketing",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "schema":"auth"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "understand",
+    "database": "trade_marketing",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "schema":"auth"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "understand",
+    "database": "trade_marketing",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "schema":"auth"
+  }
+}
