@@ -1,26 +1,23 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "understand",
-    "database": "trade_marketing",
-    "host": "127.0.0.1",
-    "dialect": "postgres",
-    "schema":"auth"
+    "username": "madsaxycymzsns",
+    "password": "cb5f1b1a6de7038adfb90764235fe9dadf1b6ca95ba9b19af2caf0534fdefe15",
+    "database": "d6e5sdsu5r2a4f",
+    "host": "ec2-174-129-224-157.compute-1.amazonaws.com",
+    "URI":"postgres://madsaxycymzsns:cb5f1b1a6de7038adfb90764235fe9dadf1b6ca95ba9b19af2caf0534fdefe15@ec2-174-129-224-157.compute-1.amazonaws.com:5432/d6e5sdsu5r2a4f"
   },
   "test": {
-    "username": "postgres",
-    "password": "understand",
-    "database": "trade_marketing",
-    "host": "127.0.0.1",
-    "dialect": "postgres",
-    "schema":"auth"
-  },
+      "username": "madsaxycymzsns",
+      "password": "cb5f1b1a6de7038adfb90764235fe9dadf1b6ca95ba9b19af2caf0534fdefe15",
+      "database": "d6e5sdsu5r2a4f",
+      "host": "ec2-174-129-224-157.compute-1.amazonaws.com",
+      "URI":"postgres://madsaxycymzsns:cb5f1b1a6de7038adfb90764235fe9dadf1b6ca95ba9b19af2caf0534fdefe15@ec2-174-129-224-157.compute-1.amazonaws.com:5432/d6e5sdsu5r2a4f"
+    },
   "production": {
-    "username": "postgres",
-    "password": "understand",
-    "database": "trade_marketing",
-    "host": "127.0.0.1",
-    "dialect": "postgres",
-    "schema":"auth"
-  }
+      "username": "madsaxycymzsns",
+      "password": "cb5f1b1a6de7038adfb90764235fe9dadf1b6ca95ba9b19af2caf0534fdefe15",
+      "database": "d6e5sdsu5r2a4f",
+      "host": "ec2-174-129-224-157.compute-1.amazonaws.com",
+      "URI":"postgres://madsaxycymzsns:cb5f1b1a6de7038adfb90764235fe9dadf1b6ca95ba9b19af2caf0534fdefe15@ec2-174-129-224-157.compute-1.amazonaws.com:5432/d6e5sdsu5r2a4f"
+    }
 }
